@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134546877218",
+    "firebase_url": "https://phone-auth-ff4fa.firebaseio.com",
+    "project_id": "phone-auth-ff4fa",
+    "storage_bucket": "phone-auth-ff4fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134546877218:android:85bcc859fa4d8758f3d37b",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134546877218-cmq1c6r3jlcm7kd2faiuqj6chvmji5cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_auth",
+            "certificate_hash": "0e486837f1c8e187d8e462f70d1b08417a2f044f"
+          }
+        },
+        {
+          "client_id": "134546877218-4or0locvgg5p0bhamaitib8urocib3vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_R585pzCmBeyVS4l4raxEYSQDy48BIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134546877218-4or0locvgg5p0bhamaitib8urocib3vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
